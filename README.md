@@ -33,3 +33,7 @@ For example:
 3 + 2 = 5
 
 There is no need to press [CE] unless you've made a mistake in inputting numbers.
+
+Created with:
+
+WPF (XAML, C#)
