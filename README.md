@@ -4,10 +4,10 @@ This is a simple calculator application.
 
 This calculator application can do basic functions such as:
 
-Adding 
-Subtracting 
-Multiplying 
-Dividing
+Adding <br />
+Subtracting <br />
+Multiplying <br />
+Dividing <br />
 
 You can also continue manipulating your answers with any function instead of having to input your answer again.
 
@@ -24,9 +24,9 @@ For example:
 (Old way)
 
 2 + 2 = 4 <br />
-[CE] 
+[CE] <br />
 3 + 2 = 5 <br />
-[CE]
+[CE] <br />
 
 (Now) <br />
 2 + 2 = 4 <br />
