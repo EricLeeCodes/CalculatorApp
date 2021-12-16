@@ -23,12 +23,12 @@ For example:
 
 (Old way)
 
-2 + 2 = 4 
+2 + 2 = 4 <br />
 [CE] 
-3 + 2 = 5 
+3 + 2 = 5 <br />
 [CE]
 
-(Now) 
+(Now) <br />
 2 + 2 = 4 <br />
 3 + 2 = 5
 
