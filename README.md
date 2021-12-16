@@ -29,7 +29,7 @@ For example:
 [CE]
 
 (Now) 
-2 + 2 = 4 
+2 + 2 = 4 <br />
 3 + 2 = 5
 
 There is no need to press [CE] unless you've made a mistake in inputting numbers.
